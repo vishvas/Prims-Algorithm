@@ -5,7 +5,8 @@ Prim's Algotihm is used for find minimum spanning tree between all pairs of node
 
 To compile the code, type: make
 
+
 To run the code, type : ./prim.out <input file.txt>
 
-Input file should be in adjencency matrix with comma seperated value form.
 
+Input file should be in adjencency matrix with comma seperated value form

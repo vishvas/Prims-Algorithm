@@ -1,7 +1,7 @@
-Prim's Algorithms
+Prim's Algorithm
 ================
 
-Prim's Algotihms is used for find minimum spanning tree between all pairs of node. Major condition for Prim's algorithms is that graph should be connected.
+Prim's Algotihm is used for find minimum spanning tree between all pairs of node. Major condition for Prim's algorithms is that graph should be connected.
 
 To compile the code, type: make
 
